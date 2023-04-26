@@ -1,2 +1,2 @@
 # Conditional-statements
-Using if-else
+Using if-else statements
